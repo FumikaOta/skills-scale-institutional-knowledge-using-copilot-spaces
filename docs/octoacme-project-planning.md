@@ -36,8 +36,10 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - Mark cross-team dependencies in the project board and escalate during weekly syncs
 
 ## Planning Checklist
-- [ ] Project kickoff held
+- [ ] Project kickoff held (include UX Designer if UI changes expected)
 - [ ] Backlog prioritized and estimated
-- [ ] Release timeline and milestones agreed
+- [ ] Release timeline and milestones agreed with Release Manager
 - [ ] Definition of Done documented
 - [ ] Initial test plan / QA approach drafted
+- [ ] UX design requirements identified (if applicable)
+- [ ] Data instrumentation and metrics plan reviewed with Data Analyst

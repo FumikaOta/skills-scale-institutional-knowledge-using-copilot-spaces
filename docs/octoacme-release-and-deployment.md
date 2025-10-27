@@ -16,11 +16,12 @@ Standardize how OctoAcme releases features to production to reduce risk and impr
 - Smoke tests prepared
 
 ## Deployment Checklist
-- [ ] Deployment window scheduled (if needed)
+- [ ] Release Manager coordinates deployment window (if needed)
 - [ ] Backup or snapshot (if applicable)
 - [ ] Deploy to staging and run smoke tests
 - [ ] Deploy to production (automated pipeline preferred)
 - [ ] Run post-deploy verifications
+- [ ] Customer Support Liaison notified of release
 - [ ] Announce release to stakeholders and support
 
 ## Rollback & Incident Playbook
